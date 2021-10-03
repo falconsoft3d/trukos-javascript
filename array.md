@@ -1,4 +1,4 @@
-slide
+# slice
 ```
 arr.slice([inicio [, fin]])
 
