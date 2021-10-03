@@ -1,6 +1,6 @@
 index.js
 
-``
+```
 import { ChakraProvider } from '@chakra-ui/react';
 
 ReactDOM.render(
@@ -11,10 +11,11 @@ ReactDOM.render(
   </ChakraProvider>,
   document.getElementById('root')
 );
-``
 
+```
 App.js
-``
+
+```
 import './App.css';
 import {Flex, Heading, Input, Button, useColorMode, useColorModeValue} from "@chakra-ui/react"
 
@@ -36,4 +37,5 @@ const App  = () => {
 }
 
 export default App;
-``
+
+```
