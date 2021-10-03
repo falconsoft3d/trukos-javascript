@@ -1,6 +1,5 @@
-1 - 
+1 - Create git repository
 ```
-create git repository
 create-react-app . --use-npm
 ```
 
